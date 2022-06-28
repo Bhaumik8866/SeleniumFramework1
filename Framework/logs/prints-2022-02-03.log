@@ -1,0 +1,7 @@
+23:47:18.081 [main] INFO  resources.initializeDriver - Driver is initialized
+23:47:23.598 [main] INFO  resources.initializeDriver - Navigated to home page
+23:47:26.855 [main] INFO  resources.initializeDriver - Hemberger button opened
+23:47:39.271 [main] INFO  resources.initializeDriver - Driver is initialized
+23:47:46.188 [main] INFO  resources.initializeDriver - Navigated to home page
+23:47:49.321 [main] INFO  resources.initializeDriver - Hemberger button opened
+23:47:49.769 [main] INFO  resources.initializeDriver - theme page opened

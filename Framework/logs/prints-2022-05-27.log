@@ -1,0 +1,7 @@
+23:23:00.213 [main] INFO  resources.initializeDriver - Driver is initialized
+23:23:10.385 [main] INFO  resources.initializeDriver - Navigated to home page
+23:23:14.754 [main] INFO  resources.initializeDriver - Hemberger button opened
+23:23:14.951 [main] INFO  resources.initializeDriver - dashbaord grid opened in new page
+23:27:50.612 [main] INFO  resources.initializeDriver - Driver is initialized
+23:27:58.574 [main] INFO  resources.initializeDriver - Navigated to home page
+23:28:02.498 [main] INFO  resources.initializeDriver - Hemberger button opened

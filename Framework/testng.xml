@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="EndtoEndFramework.Framework.annotation"/>
+      <class name="EndtoEndFramework.Framework.controlpanel"/>
+      <class name="reportScheduling.InteractiveChart"/>
+      <class name="reportScheduling.reportSchedulingOnce"/>
+      <class name="reportScheduling.HyperLinkDrillTest"/>
+      <class name="reportScheduling.allReportAllFormatScheduling"/>
+      <class name="EndtoEndFramework.Framework.dashboard"/>
+      <class name="reportScheduling.schedulingfromoptions"/>
+      <class name="EndtoEndFramework.Framework.AppTest"/>
+      <class name="reportScheduling.reportUnitTestCases"/>
+      <class name="reportScheduling.allReportScheduling"/>
+      <class name="EndtoEndFramework.Framework.HomePage"/>
+      <class name="reportScheduling.dashboardReportWidgetTest"/>
+      <class name="EndtoEndFramework.Framework.logout"/>
+      <class name="reportScheduling.reportSchedulingEvent"/>
+      <class name="EndtoEndFramework.Framework.theme"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="EndtoEndFramework.Framework.annotation">
+        <methods>
+          <include name="annotationSection"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- EndtoEndFramework.Framework.annotation -->
+      <class name="reportScheduling.reportUnitTestCases">
+        <methods>
+          <include name="loginToApplication"/>
+          <include name="createFolderWindow"/>
+          <include name="createFolderFooter"/>
+          <include name="closeBrowserWindow"/>
+        </methods>
+      </class> <!-- reportScheduling.reportUnitTestCases -->
+      <class name="reportScheduling.schedulingfromoptions">
+        <methods>
+          <include name="schedulingfromoptionsicon"/>
+        </methods>
+      </class> <!-- reportScheduling.schedulingfromoptions -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
